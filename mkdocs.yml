@@ -8,3 +8,7 @@ theme:
 
 plugins:
   - search
+  - pdf-export:
+      combined: true
+      toc_level: 3
+      media_type: print
