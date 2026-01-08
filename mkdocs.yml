@@ -1,0 +1,10 @@
+site_name: 社内マニュアル
+
+nav:
+  - ホーム: index.md
+
+theme:
+  name: material
+
+plugins:
+  - search
